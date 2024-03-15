@@ -1,10 +1,8 @@
-# Portfolio Template
+# A propos de ce template
 
-An open-source, user-friendly, responsive and accessible portfolio template for developers 🚀⚡
+Ceci est mon portfolio principal à travers lequel j'exhibe mes travaux précedents. Prenez le temps de lire ce fichier ReadMe pour en apprendre davantage 🚀⚡
 
-Give star ⭐ if you find it useful. [Visit site &rarr;](https://opensource-portfolio.netlify.app/)
-
-![Portfolio Template Gif](assets/images/portfolio-template.gif)
+Vous pouvez le retrouver en ligne via. [Visit site &rarr;](https://olivierbisimwa.netlify.app/)
 
 ## Useful resources
 
